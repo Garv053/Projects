@@ -1,4 +1,6 @@
 # Projects
-I have built 2 project using excel and power Bi
-1) Blinkit sales dashboard
-2) Hr Analytics dashboard
+I have built 4 project 
+1) Stock price prediction(ML & DL)
+2) EDA Netflix content analysis(Python)
+3) ChatBot(RAG)
+4) Blinkit sales dashboard(Excel & PowerBI)
